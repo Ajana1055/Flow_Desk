@@ -397,10 +397,9 @@ This project helped in understanding:
 
 # Author
 
-Soumyajit Bera
+Anirban Jana
 
-GitHub: [https://github.com/Soumyajit003](https://github.com/Soumyajit003)
-
+GitHub: [https://github.com/Ajana1055/Flow_Desk](https://github.com/Ajana1055/Flow_Desk)
 ---
 
 # License
